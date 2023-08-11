@@ -1,13 +1,12 @@
 import React from 'react'
+import { Typography } from '@mui/material'
 
 function Contact() {
   return (
-    <div>Contact
-    <div>
-    Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village.
-
-    </div>
-    </div>
+    <>
+    <Typography variant='hr'> Contact </Typography>
+    <Typography varient="body1">Ipsum in pariatur nostrud sunt incididunt tempor ex duis. Aliquip irure deserunt nostrud exercitation. Dolor amet laboris labore nostrud culpa Lorem nostrud. Dolor officia qui cillum anim adipisicing proident adipisicing mollit elit ullamco deserunt eiusmod dolor.</Typography>
+    </>
   )
 }
 
