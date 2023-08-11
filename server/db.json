@@ -1,0 +1,22 @@
+{
+    "careers":[
+        {
+            "id":1,
+            "title":"front end developer",
+            "salary":300000,
+            "location":"bangalore"
+        },
+        {
+            "id":2,
+            "title":"Back end developer",
+            "salary":350000,
+            "location":"goa"
+        },
+        {
+            "id":3,
+            "title":"full stack developer",
+            "salary":500000,
+            "location":"chennai"
+        }
+    ]
+}

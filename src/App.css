@@ -1,0 +1,14 @@
+.active{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  text-decoration: none;
+  padding: 5px;
+}
+.top{
+  padding: 40px;
+  
+}
+.hr{
+  width:auto;
+}
